@@ -1,0 +1,12 @@
+i was alittle confused on this one
+
+steps:
+
+created repo
+created local repo
+created html file
+add, commited, and tried to push.. wasnt waorking because i added a readme file in the repo on git hub.. but i figured out that was the problem.
+
+created remote repo again without containing readme file.
+pushed to github - success
+edited file and pushed again.
